@@ -1,0 +1,12 @@
+{
+    "name": "pong_pk007/barcode_ex",
+    "authors": [
+        {
+            "name": "Pongsathon Somjai",
+            "email": "pongsathon_pk_202@hotmail.com"
+        }
+    ],
+    "require": {
+        "picqer/php-barcode-generator": "^2.2"
+    }
+}
